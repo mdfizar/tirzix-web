@@ -1751,6 +1751,9 @@ p {
     justify-content: left;
     text-align: left;
 }
+.overflow-hidden {
+  overflow: hidden;
+}
 #mobile-img{
 	  position: relative;
     top: 13%;
